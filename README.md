@@ -1,0 +1,2 @@
+# springmvcredis
+springmvc与redis结合实现把数据存入到缓存服务器中
